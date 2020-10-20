@@ -6,7 +6,7 @@ Download this repository as a zip, extract it anywhere you can remember and then
 
 m h * * * /path/to/sh
 
-replace "path/to/sh" to the location of MASAutoBackup.sh, m for the minutes and h for the hour you want it to run (for example 30 17 would run it at 5:30 PM).
+replace "path/to/sh" with the location of MASAutoBackup.sh, m for the minutes and h for the hour you want it to run (for example 30 17 would run it at 5:30 PM).
 
 then edit the .sh itself on the following line:
 
