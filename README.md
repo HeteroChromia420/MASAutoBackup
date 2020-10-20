@@ -6,4 +6,4 @@ Download this repository as a zip, place it anywhere you can remember and then r
 
 m h * * * /path/to/sh
 
-replace "path/to/sh" to the location of MASAutoBackup.sh.
+replace "path/to/sh" to the location of MASAutoBackup.sh, m for the minute and h for the hour you want it to run.
