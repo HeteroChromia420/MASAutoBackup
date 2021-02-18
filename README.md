@@ -1,5 +1,5 @@
 # MASAutoBackup
-Auto-Backup Script for Monika After Story. (Linux Only)
+(Semi) Auto-Backup Script for Monika After Story. (Linux Only)
 
 ## Usage
 Download this repository as a zip, extract it anywhere you can remember and then run ``crontab -e``, and follow this guide:
