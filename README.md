@@ -1,3 +1,5 @@
+# This Script is no longer maintained, use at your own risk.
+
 # MASAutoBackup
 (Semi) Auto-Backup Script for Monika After Story. (Linux Only)
 
